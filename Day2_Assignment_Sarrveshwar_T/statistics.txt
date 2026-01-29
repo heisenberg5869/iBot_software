@@ -1,0 +1,24 @@
+Statistics 1: 
+Final Statistics:
+Number of circles: 32
+Total radius: 970
+Mean radius: 30.31
+Small circles: 17
+Medium circles: 3
+Large circles: 12
+
+Statistics 2:
+Number of circles: 4
+Total radius: 338
+Mean radius: 84.50
+Small circles: 1
+Medium circles: 2
+Large circles: 1
+
+Statistics 3:
+Number of circles: 18
+Total radius: 1493
+Mean radius: 82.94
+Small circles: 3
+Medium circles: 0
+Large circles: 15
