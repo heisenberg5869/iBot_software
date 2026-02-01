@@ -6,12 +6,11 @@ A collection of three computer vision projects progressing from classical image 
 
 ## 📁 Folder Structure
 
-```
 iBot_software/
 │
 ├── README.md
 │
-├── Day1_Pencil_Sketch/
+├── Day1_Assignment_Sarrveshwar_T/
 │   ├── pencil_sketch.py
 │   ├── Mini_task_1.py
 │   ├── Mini_task_2.py
@@ -20,13 +19,13 @@ iBot_software/
 │   ├── output_sketches/
 │   
 │
-├── Day2_Circle_Detector/
+├── Day2_Assignment_Sarrveshwar_T/
 │   ├── circle_detector.py
 │   ├── test_images/
 │   ├── result_images/
 │   └── statistics.txt
 │
-└── Day3_Cat_Dog_Classifier/
+└── Day3_Assignment_Sarrveshwar_T/
     ├── train.py
     ├── evaluate.py
     ├── data/
